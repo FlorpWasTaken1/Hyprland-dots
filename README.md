@@ -5,4 +5,7 @@ programs needed:
 Hyprland,
 Waybar,
 Kitty,
-Neovim with NvChad (see https://github.com/NvChad/NvChad)
+Neovim with NvChad (see https://github.com/NvChad/NvChad),
+swww or any wallpaper program you prefer,
+Arch linux, or any distro of your choice as long as it supports tiling window managers (or macOS if you're into that, I don't judge)
+
